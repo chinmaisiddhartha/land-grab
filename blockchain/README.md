@@ -69,21 +69,26 @@ Land swap proposal system
 Surrounding land takeover mechanism (claim land surrounded by your parcels)
 Swap acceptance and cancellation
 
+
 Key Functions:
 
-// Propose a swap of land between users
+
+- Propose a swap of land between users
 function proposeSwap(string memory myWhat3Words, address receiver, string memory receiverWhat3Words) external returns (bytes32);
 
-// Accept a swap proposal
+
+- Accept a swap proposal
 function acceptSwap(bytes32 proposalId) external;
 
-// Cancel a swap proposal
+
+- Cancel a swap proposal
 function cancelSwap(bytes32 proposalId) external;
 
-// Check if a land is surrounded by lands owned by a single user
+
+- Check if a land is surrounded by lands owned by a single user
 function isLandSurrounded(string memory centralWhat3Words, string[] memory surroundingWhat3Words) public view returns (bool);
 
-// Take over a surrounded land
+- Take over a surrounded land
 function takeoverSurroundedLand(string memory centralWhat3Words, string[] memory surroundingWhat3Words) external;
 
 
@@ -92,8 +97,13 @@ function takeoverSurroundedLand(string memory centralWhat3Words, string[] memory
 The project uses both Hardhat and Foundry for development, testing, and deployment:
 
 Hardhat: JavaScript-based development environment
+
+
 Foundry: Rust-based development environment with Forge (testing), Cast (transactions), and Anvil (local node)
+
+
 Slither: Static analysis tool for security auditing
+
 
 ```blockchain/
 ├── contracts/           # Smart contracts
@@ -137,6 +147,7 @@ npm install
 curl -L https://foundry.paradigm.xyz | bash
 foundryup
 ```
+
 ### Foundry Commands
 
 ```# Build contracts
@@ -155,6 +166,7 @@ forge test -vvv
 forge test --match-contract LandTokenTest -vvv
 
 # Deploy contracts
+
 forge script script/Deploy.s.sol --rpc-url <RPC_URL> --private-key <PRIVATE_KEY> --broadcast
 
 # Interact with deployed contracts
@@ -210,17 +222,27 @@ npx hardhat verify --network sepolia <CONTRACT_ADDRESS> <CONSTRUCTOR_ARGS>
 
 These contracts implement several security best practices:
 
-Access Control: Using OpenZeppelin's Ownable pattern and custom authorization
-Checks-Effects-Interactions Pattern: To prevent reentrancy attacks
+- Access Control: Using OpenZeppelin's Ownable pattern and custom authorization
+
+
+- Checks-Effects-Interactions Pattern: To prevent reentrancy attacks
 Input Validation: Thorough validation of all inputs
-Event Emission: Events for all important state changes
-Reentrancy Guard: Using OpenZeppelin's ReentrancyGuard for critical functions
+
+
+- Event Emission: Events for all important state changes
+
+
+- Reentrancy Guard: Using OpenZeppelin's ReentrancyGuard for critical functions
 
 ## Gas Optimization
+
 The contracts include several gas optimizations:
 
-Storage Packing: Efficient storage layout
-Minimal Storage: Using mappings instead of arrays where possible
-Function Visibility: Appropriate visibility modifiers
-Memory vs Storage: Careful use of memory and storage variables
-Solidity Optimizer: Enabled with 200 runs
+- Storage Packing: Efficient storage layout
+
+- Minimal Storage: Using mappings instead of arrays where possible
+
+- Function Visibility: Appropriate visibility modifiers
+- Memory vs Storage: Careful use of memory and storage variables
+
+- Solidity Optimizer: Enabled with 200 runs
