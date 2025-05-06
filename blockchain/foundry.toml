@@ -1,0 +1,20 @@
+[profile.default]
+src = "contracts"  # Changed from "src" to "contracts"
+test = "test"
+out = "out"
+libs = ["node_modules", "lib"]
+solc = "0.8.20"
+optimizer = true
+optimizer_runs = 200
+via_ir = true
+
+# [rpc_endpoints]
+# localhost = "http://localhost:8545"
+# [etherscan]
+
+# # Your Etherscan API key
+# key = "${ETHERSCAN_API_KEY}"
+
+# remappings = ["hardhat/=node_modules/hardhat/"]
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options

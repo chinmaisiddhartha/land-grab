@@ -1,0 +1,294 @@
+[2025-05-06T00:31:17.074Z] [INFO] Using blockchain RPC URL: https://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T00:31:17.078Z] [INFO] LandToken address: 0x3d550Bef105d71DDeB9184A9b0EB3Dde7567C051 
+[2025-05-06T00:31:17.078Z] [INFO] LandMarket address: 0x19FcA6112B6C4ced0f09Db315F14B8B0ddEE8598 
+[2025-05-06T00:31:17.078Z] [INFO] LandSwap address: 0x7A8aB0187eB080b66919f8166e0e91EB16667557 
+[2025-05-06T00:31:23.798Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T00:31:24.731Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 933ms 
+[2025-05-06T00:32:18.471Z] [INFO] GET /api/blockchain/user-lands/0xABe2426574b11A7d8823Df110ab9De278982D753 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T00:32:18.902Z] [INFO] GET /user-lands/0xABe2426574b11A7d8823Df110ab9De278982D753 200 431ms 
+[2025-05-06T01:21:41.954Z] [INFO] Using blockchain RPC URL: https://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T01:21:41.958Z] [INFO] LandToken address: 0x3d550Bef105d71DDeB9184A9b0EB3Dde7567C051 
+[2025-05-06T01:21:41.958Z] [INFO] LandMarket address: 0x19FcA6112B6C4ced0f09Db315F14B8B0ddEE8598 
+[2025-05-06T01:21:41.958Z] [INFO] LandSwap address: 0x7A8aB0187eB080b66919f8166e0e91EB16667557 
+[2025-05-06T01:22:02.675Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:22:02.679Z] [INFO] GET /mode 200 4ms 
+[2025-05-06T01:22:02.724Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:22:02.724Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T01:22:10.413Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:22:10.414Z] [INFO] GET /mode 200 1ms 
+[2025-05-06T01:22:10.470Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:22:10.471Z] [INFO] GET /mode 200 1ms 
+[2025-05-06T01:22:11.168Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:22:16.493Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 5325ms 
+[2025-05-06T01:22:16.661Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:22:20.863Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 4202ms 
+[2025-05-06T01:24:22.750Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:24:22.760Z] [INFO] GET /mode 200 10ms 
+[2025-05-06T01:24:22.814Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:24:22.815Z] [INFO] GET /mode 200 1ms 
+[2025-05-06T01:24:22.863Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:24:22.864Z] [INFO] GET /mode 200 1ms 
+[2025-05-06T01:24:22.888Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:24:22.888Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T01:24:24.164Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:24:24.165Z] [INFO] GET /mode 200 1ms 
+[2025-05-06T01:24:24.230Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:24:24.230Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T01:58:02.291Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:58:02.297Z] [INFO] GET /mode 200 6ms 
+[2025-05-06T01:58:02.415Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:58:02.519Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:58:02.519Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T01:58:07.039Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 4623ms 
+[2025-05-06T01:58:07.187Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:58:11.138Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 3951ms 
+[2025-05-06T01:59:39.646Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T01:59:42.499Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 2853ms 
+[2025-05-06T02:02:46.929Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:02:46.932Z] [INFO] GET /mode 200 3ms 
+[2025-05-06T02:02:46.956Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:02:46.956Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T02:02:59.915Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:02:59.920Z] [INFO] GET /mode 200 5ms 
+[2025-05-06T02:03:17.751Z] [INFO] GET /api/blockchain/user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:03:17.755Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:03:17.756Z] [INFO] GET /mode 200 1ms 
+[2025-05-06T02:03:17.779Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:03:17.780Z] [INFO] GET /mode 200 1ms 
+[2025-05-06T02:03:18.447Z] [INFO] GET /user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 200 696ms 
+[2025-05-06T02:03:18.544Z] [INFO] GET /api/blockchain/user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:03:19.228Z] [INFO] GET /user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 200 684ms 
+[2025-05-06T02:03:20.619Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:03:20.619Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T02:03:20.636Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:03:20.636Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T02:03:20.657Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:03:20.657Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T02:03:20.677Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:03:20.677Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T02:04:57.310Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:04:57.649Z] [INFO] GET /land-info/samples.unwound.money 200 339ms 
+[2025-05-06T02:05:00.834Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:01.135Z] [INFO] GET /land-info/samples.unwound.money 200 301ms 
+[2025-05-06T02:05:04.355Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:04.710Z] [INFO] GET /land-info/samples.unwound.money 200 355ms 
+[2025-05-06T02:05:07.879Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:08.191Z] [INFO] GET /land-info/samples.unwound.money 200 312ms 
+[2025-05-06T02:05:11.392Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:11.777Z] [INFO] GET /land-info/samples.unwound.money 200 385ms 
+[2025-05-06T02:05:14.958Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:15.256Z] [INFO] GET /land-info/samples.unwound.money 200 298ms 
+[2025-05-06T02:05:18.373Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:18.677Z] [INFO] GET /land-info/samples.unwound.money 200 303ms 
+[2025-05-06T02:05:21.790Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:22.049Z] [INFO] GET /land-info/samples.unwound.money 200 259ms 
+[2025-05-06T02:05:25.188Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:26.725Z] [INFO] GET /land-info/samples.unwound.money 200 1537ms 
+[2025-05-06T02:05:29.871Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:30.836Z] [INFO] GET /land-info/samples.unwound.money 200 965ms 
+[2025-05-06T02:05:33.958Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:34.348Z] [INFO] GET /land-info/samples.unwound.money 200 390ms 
+[2025-05-06T02:05:37.470Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:37.885Z] [INFO] GET /land-info/samples.unwound.money 200 414ms 
+[2025-05-06T02:05:41.003Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:41.988Z] [INFO] GET /land-info/samples.unwound.money 200 985ms 
+[2025-05-06T02:05:45.116Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:45.561Z] [INFO] GET /land-info/samples.unwound.money 200 445ms 
+[2025-05-06T02:05:49.177Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:49.593Z] [INFO] GET /land-info/samples.unwound.money 200 416ms 
+[2025-05-06T02:05:53.145Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:53.542Z] [INFO] GET /land-info/samples.unwound.money 200 397ms 
+[2025-05-06T02:05:57.148Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:05:57.649Z] [INFO] GET /land-info/samples.unwound.money 200 501ms 
+[2025-05-06T02:06:01.173Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:06:01.640Z] [INFO] GET /land-info/samples.unwound.money 200 467ms 
+[2025-05-06T02:06:05.139Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:06:05.632Z] [INFO] GET /land-info/samples.unwound.money 200 492ms 
+[2025-05-06T02:06:09.141Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:06:09.596Z] [INFO] GET /land-info/samples.unwound.money 200 455ms 
+[2025-05-06T02:17:19.594Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:17:19.605Z] [INFO] GET /mode 200 11ms 
+[2025-05-06T02:17:19.606Z] [INFO] GET /api/blockchain/user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:17:19.695Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:17:19.695Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T02:17:19.964Z] [INFO] GET /user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 200 358ms 
+[2025-05-06T02:17:20.083Z] [INFO] GET /api/blockchain/user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:17:21.097Z] [INFO] GET /user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 200 1014ms 
+[2025-05-06T02:17:43.663Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T02:17:47.611Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 3948ms 
+[2025-05-06T03:17:04.597Z] [INFO] Using blockchain HTTP RPC URL: https://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T03:17:04.597Z] [INFO] Using blockchain WebSocket URL: wss://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T03:17:04.601Z] [INFO] LandToken address: 0x3d550Bef105d71DDeB9184A9b0EB3Dde7567C051 
+[2025-05-06T03:17:04.601Z] [INFO] LandMarket address: 0x19FcA6112B6C4ced0f09Db315F14B8B0ddEE8598 
+[2025-05-06T03:17:04.601Z] [INFO] LandSwap address: 0x7A8aB0187eB080b66919f8166e0e91EB16667557 
+[2025-05-06T03:17:04.603Z] [INFO] Blockchain event listeners set up successfully 
+[2025-05-06T03:17:04.604Z] [INFO] Blockchain service initialized 
+[2025-05-06T03:34:46.960Z] [INFO] Redis queue initialized successfully 
+[2025-05-06T03:34:46.990Z] [INFO] Using blockchain HTTP RPC URL: https://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T03:34:46.990Z] [INFO] Using blockchain WebSocket URL: wss://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T03:34:46.994Z] [INFO] LandToken address: 0x3d550Bef105d71DDeB9184A9b0EB3Dde7567C051 
+[2025-05-06T03:34:46.994Z] [INFO] LandMarket address: 0x19FcA6112B6C4ced0f09Db315F14B8B0ddEE8598 
+[2025-05-06T03:34:46.994Z] [INFO] LandSwap address: 0x7A8aB0187eB080b66919f8166e0e91EB16667557 
+[2025-05-06T03:34:46.996Z] [INFO] Blockchain event listeners set up successfully 
+[2025-05-06T03:34:46.996Z] [INFO] Blockchain service initialized 
+[2025-05-06T03:34:47.292Z] [WARN] Switching to in-memory queue due to Redis errors 
+[2025-05-06T03:34:47.292Z] [WARN] Using in-memory queue for blockchain-events (Redis not available) 
+[2025-05-06T03:34:47.292Z] [INFO] Blockchain queue processors set up 
+[2025-05-06T04:05:48.700Z] [INFO] Redis queue initialized successfully 
+[2025-05-06T04:05:48.725Z] [INFO] Using blockchain HTTP RPC URL: https://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T04:05:48.726Z] [INFO] Using blockchain WebSocket URL: wss://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T04:05:48.729Z] [INFO] LandToken address: 0x3d550Bef105d71DDeB9184A9b0EB3Dde7567C051 
+[2025-05-06T04:05:48.729Z] [INFO] LandMarket address: 0x19FcA6112B6C4ced0f09Db315F14B8B0ddEE8598 
+[2025-05-06T04:05:48.729Z] [INFO] LandSwap address: 0x7A8aB0187eB080b66919f8166e0e91EB16667557 
+[2025-05-06T04:05:48.732Z] [INFO] Blockchain event listeners set up successfully 
+[2025-05-06T04:05:48.732Z] [INFO] Blockchain service initialized 
+[2025-05-06T04:05:48.783Z] [INFO] Blockchain queue processors set up 
+[2025-05-06T04:05:48.783Z] [INFO] Queue service initialized 
+[2025-05-06T04:05:49.140Z] [WARN] Switching to in-memory queue due to Redis errors 
+[2025-05-06T04:05:49.141Z] [WARN] Using in-memory queue for blockchain-events (Redis not available) 
+[2025-05-06T04:05:49.141Z] [INFO] Blockchain queue processors set up 
+[2025-05-06T04:23:44.725Z] [INFO] Redis queue initialized successfully 
+[2025-05-06T04:23:44.753Z] [INFO] Using blockchain HTTP RPC URL: https://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T04:23:44.753Z] [INFO] Using blockchain WebSocket URL: wss://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T04:23:44.757Z] [INFO] LandToken address: 0x3d550Bef105d71DDeB9184A9b0EB3Dde7567C051 
+[2025-05-06T04:23:44.757Z] [INFO] LandMarket address: 0x19FcA6112B6C4ced0f09Db315F14B8B0ddEE8598 
+[2025-05-06T04:23:44.757Z] [INFO] LandSwap address: 0x7A8aB0187eB080b66919f8166e0e91EB16667557 
+[2025-05-06T04:23:44.759Z] [INFO] Blockchain event listeners set up successfully 
+[2025-05-06T04:23:44.759Z] [INFO] Blockchain service initialized 
+[2025-05-06T04:23:44.810Z] [INFO] Blockchain queue processors set up 
+[2025-05-06T04:23:44.810Z] [INFO] Queue service initialized 
+[2025-05-06T04:23:44.812Z] [INFO] Starting blockchain listener... 
+[2025-05-06T04:23:44.816Z] [INFO] Server running on port 3001 
+[2025-05-06T04:23:44.899Z] [WARN] Switching to in-memory queue due to Redis errors 
+[2025-05-06T04:23:44.899Z] [WARN] Using in-memory queue for blockchain-events (Redis not available) 
+[2025-05-06T04:23:44.900Z] [INFO] Blockchain queue processors set up 
+[2025-05-06T04:59:32.537Z] [INFO] Using blockchain HTTP RPC URL: https://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T04:59:32.538Z] [INFO] Using blockchain WebSocket URL: wss://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T04:59:32.541Z] [INFO] LandToken address: 0x3d550Bef105d71DDeB9184A9b0EB3Dde7567C051 
+[2025-05-06T04:59:32.541Z] [INFO] LandMarket address: 0x19FcA6112B6C4ced0f09Db315F14B8B0ddEE8598 
+[2025-05-06T04:59:32.541Z] [INFO] LandSwap address: 0x7A8aB0187eB080b66919f8166e0e91EB16667557 
+[2025-05-06T04:59:32.543Z] [INFO] Blockchain event listeners set up successfully 
+[2025-05-06T04:59:32.544Z] [INFO] Blockchain service initialized 
+[2025-05-06T05:00:01.843Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:00:01.845Z] [INFO] GET /mode 200 2ms 
+[2025-05-06T05:00:01.893Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:00:01.893Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T05:00:46.976Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:00:46.978Z] [INFO] GET /mode 200 2ms 
+[2025-05-06T05:01:00.706Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:01:00.706Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T05:01:00.772Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:01:00.772Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T05:01:00.827Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:01:00.828Z] [INFO] GET /mode 200 1ms 
+[2025-05-06T05:01:00.849Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:01:00.849Z] [INFO] GET /mode 200 0ms 
+[2025-05-06T05:01:49.748Z] [INFO] Verification requested: 0x145369a7d20617b73623baa2a90b37dd7f09d95c239182022382077d1b48c1ff by 0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC for samples.unwound.money 
+[2025-05-06T05:01:49.751Z] [INFO] Processing verification request: 0x145369a7d20617b73623baa2a90b37dd7f09d95c239182022382077d1b48c1ff for samples.unwound.money by 0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 
+[2025-05-06T05:01:49.751Z] [INFO] Verification request 0x145369a7d20617b73623baa2a90b37dd7f09d95c239182022382077d1b48c1ff processed 
+[2025-05-06T05:01:52.936Z] [INFO] Processing verification request: 0x145369a7d20617b73623baa2a90b37dd7f09d95c239182022382077d1b48c1ff for samples.unwound.money by 0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 
+[2025-05-06T05:01:52.936Z] [INFO] Verification request 0x145369a7d20617b73623baa2a90b37dd7f09d95c239182022382077d1b48c1ff processed 
+[2025-05-06T05:01:55.622Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:01:56.339Z] [INFO] GET /land-info/samples.unwound.money 200 717ms 
+[2025-05-06T05:01:59.542Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:01:59.905Z] [INFO] GET /land-info/samples.unwound.money 200 363ms 
+[2025-05-06T05:02:03.036Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:02:03.448Z] [INFO] GET /land-info/samples.unwound.money 200 412ms 
+[2025-05-06T05:02:06.560Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:02:06.929Z] [INFO] GET /land-info/samples.unwound.money 200 369ms 
+[2025-05-06T05:02:10.062Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:02:10.365Z] [INFO] GET /land-info/samples.unwound.money 200 303ms 
+[2025-05-06T05:02:12.973Z] [INFO] Land claimed: samples.unwound.money (Token #8) by 0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 
+[2025-05-06T05:02:12.973Z] [INFO] Processing land claimed event: samples.unwound.money (Token #8) by 0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 
+[2025-05-06T05:02:12.974Z] [INFO] Land claimed event for samples.unwound.money processed 
+[2025-05-06T05:02:13.466Z] [INFO] GET /api/blockchain/land-info/samples.unwound.money {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:02:14.334Z] [INFO] Processing land claimed event: samples.unwound.money (Token #8) by 0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 
+[2025-05-06T05:02:14.336Z] [INFO] Land claimed event for samples.unwound.money processed 
+[2025-05-06T05:02:14.713Z] [INFO] GET /land-info/samples.unwound.money 200 1247ms 
+[2025-05-06T05:02:49.619Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:02:49.620Z] [INFO] GET /mode 200 1ms 
+[2025-05-06T05:02:49.873Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:02:49.874Z] [INFO] GET /mode 200 1ms 
+[2025-05-06T05:02:50.753Z] [INFO] GET /api/blockchain/user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:02:52.110Z] [INFO] GET /user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 200 1357ms 
+[2025-05-06T05:02:52.293Z] [INFO] GET /api/blockchain/user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:02:53.792Z] [INFO] GET /user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 200 1499ms 
+[2025-05-06T05:03:33.517Z] [INFO] GET /api/settings/mode {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:03:33.520Z] [INFO] GET /mode 200 3ms 
+[2025-05-06T05:03:51.443Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:03:54.750Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 3306ms 
+[2025-05-06T05:22:57.060Z] [INFO] Using blockchain HTTP RPC URL: https://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T05:22:57.061Z] [INFO] Using blockchain WebSocket URL: wss://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T05:22:57.066Z] [INFO] LandToken address: 0x3d550Bef105d71DDeB9184A9b0EB3Dde7567C051 
+[2025-05-06T05:22:57.066Z] [INFO] LandMarket address: 0x19FcA6112B6C4ced0f09Db315F14B8B0ddEE8598 
+[2025-05-06T05:22:57.067Z] [INFO] LandSwap address: 0x7A8aB0187eB080b66919f8166e0e91EB16667557 
+[2025-05-06T05:22:57.069Z] [INFO] Blockchain event listeners set up successfully 
+[2025-05-06T05:22:57.069Z] [INFO] Blockchain service initialized 
+[2025-05-06T05:24:11.980Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:24:15.178Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 3198ms 
+[2025-05-06T05:24:15.302Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:24:17.924Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 2621ms 
+[2025-05-06T05:26:13.079Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:26:16.321Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 3242ms 
+[2025-05-06T05:26:16.468Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:26:18.953Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 2485ms 
+[2025-05-06T05:27:25.869Z] [INFO] Verification requested: 0x535e687afdf80b59c05d54710c0fbe0435a9d9625806b5637346f5ca5291578d by 0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 for grief.countries.exposes 
+[2025-05-06T05:27:25.871Z] [INFO] Processing verification request: 0x535e687afdf80b59c05d54710c0fbe0435a9d9625806b5637346f5ca5291578d for grief.countries.exposes by 0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 
+[2025-05-06T05:27:25.871Z] [INFO] Verification request 0x535e687afdf80b59c05d54710c0fbe0435a9d9625806b5637346f5ca5291578d processed 
+[2025-05-06T05:27:26.742Z] [INFO] Processing verification request: 0x535e687afdf80b59c05d54710c0fbe0435a9d9625806b5637346f5ca5291578d for grief.countries.exposes by 0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 
+[2025-05-06T05:27:26.742Z] [INFO] Verification request 0x535e687afdf80b59c05d54710c0fbe0435a9d9625806b5637346f5ca5291578d processed 
+[2025-05-06T05:27:31.365Z] [INFO] GET /api/blockchain/land-info/grief.countries.exposes {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:27:31.684Z] [INFO] GET /land-info/grief.countries.exposes 200 319ms 
+[2025-05-06T05:27:35.550Z] [INFO] GET /api/blockchain/land-info/grief.countries.exposes {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:27:35.804Z] [INFO] GET /land-info/grief.countries.exposes 200 254ms 
+[2025-05-06T05:27:37.075Z] [INFO] Land claimed: grief.countries.exposes (Token #9) by 0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 
+[2025-05-06T05:27:37.076Z] [INFO] Processing land claimed event: grief.countries.exposes (Token #9) by 0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 
+[2025-05-06T05:27:37.076Z] [INFO] Land claimed event for grief.countries.exposes processed 
+[2025-05-06T05:27:38.950Z] [INFO] GET /api/blockchain/land-info/grief.countries.exposes {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:27:39.982Z] [INFO] Processing land claimed event: grief.countries.exposes (Token #9) by 0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 
+[2025-05-06T05:27:39.982Z] [INFO] Land claimed event for grief.countries.exposes processed 
+[2025-05-06T05:27:40.106Z] [INFO] GET /land-info/grief.countries.exposes 200 1156ms 
+[2025-05-06T05:27:54.594Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:27:58.203Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 3609ms 
+[2025-05-06T05:27:58.342Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:28:02.099Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 3757ms 
+[2025-05-06T05:29:05.035Z] [INFO] GET /api/blockchain/user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC {"ip":"::1","query":{},"params":{}}
+[2025-05-06T05:29:06.665Z] [INFO] GET /user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 200 1630ms 
+[2025-05-06T06:07:55.351Z] [INFO] Using blockchain HTTP RPC URL: https://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T06:07:55.352Z] [INFO] Using blockchain WebSocket URL: wss://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T06:07:55.356Z] [INFO] LandToken address: 0x3d550Bef105d71DDeB9184A9b0EB3Dde7567C051 
+[2025-05-06T06:07:55.356Z] [INFO] LandMarket address: 0x19FcA6112B6C4ced0f09Db315F14B8B0ddEE8598 
+[2025-05-06T06:07:55.357Z] [INFO] LandSwap address: 0x7A8aB0187eB080b66919f8166e0e91EB16667557 
+[2025-05-06T06:07:55.359Z] [INFO] Blockchain event listeners set up successfully 
+[2025-05-06T06:07:55.359Z] [INFO] Blockchain service initialized 
+[2025-05-06T06:08:24.568Z] [INFO] GET /api/blockchain/user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC {"ip":"::1","query":{},"params":{}}
+[2025-05-06T06:08:27.134Z] [INFO] GET /user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 200 2566ms 
+[2025-05-06T06:08:27.241Z] [INFO] GET /api/blockchain/user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC {"ip":"::1","query":{},"params":{}}
+[2025-05-06T06:08:29.704Z] [INFO] GET /user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 200 2462ms 
+[2025-05-06T06:32:21.472Z] [INFO] Using blockchain HTTP RPC URL: https://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T06:32:21.473Z] [INFO] Using blockchain WebSocket URL: wss://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T06:32:21.477Z] [INFO] LandToken address: 0x3d550Bef105d71DDeB9184A9b0EB3Dde7567C051 
+[2025-05-06T06:32:21.477Z] [INFO] LandMarket address: 0x19FcA6112B6C4ced0f09Db315F14B8B0ddEE8598 
+[2025-05-06T06:32:21.477Z] [INFO] LandSwap address: 0x7A8aB0187eB080b66919f8166e0e91EB16667557 
+[2025-05-06T06:32:21.479Z] [INFO] Blockchain event listeners set up successfully 
+[2025-05-06T06:32:21.480Z] [INFO] Blockchain service initialized 
+[2025-05-06T06:42:51.797Z] [INFO] Using blockchain HTTP RPC URL: https://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T06:42:51.798Z] [INFO] Using blockchain WebSocket URL: wss://eth-sepolia.g.alchemy.com/v2/etAgSXEhoVUUnhQoqJpDrFAJP_Q_6nO0 
+[2025-05-06T06:42:51.802Z] [INFO] LandToken address: 0x3d550Bef105d71DDeB9184A9b0EB3Dde7567C051 
+[2025-05-06T06:42:51.803Z] [INFO] LandMarket address: 0x19FcA6112B6C4ced0f09Db315F14B8B0ddEE8598 
+[2025-05-06T06:42:51.803Z] [INFO] LandSwap address: 0x7A8aB0187eB080b66919f8166e0e91EB16667557 
+[2025-05-06T06:42:51.805Z] [INFO] Blockchain event listeners set up successfully 
+[2025-05-06T06:42:51.805Z] [INFO] Blockchain service initialized 
+[2025-05-06T06:46:22.963Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T06:46:27.100Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 4137ms 
+[2025-05-06T06:46:27.184Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T06:46:30.478Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 3294ms 
+[2025-05-06T06:46:50.735Z] [INFO] Swap proposed: 0xe2446b901e44a69d88607484f93d8242a6ab4012fdd4bbf2b3a8f618d212c9e8 by 0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 to 0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 
+[2025-05-06T06:46:50.736Z] [INFO] Processing swap proposed event: 0xe2446b901e44a69d88607484f93d8242a6ab4012fdd4bbf2b3a8f618d212c9e8 
+[2025-05-06T06:46:50.736Z] [INFO] Swap proposed event 0xe2446b901e44a69d88607484f93d8242a6ab4012fdd4bbf2b3a8f618d212c9e8 processed 
+[2025-05-06T06:46:51.670Z] [INFO] GET /api/blockchain/user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 {"ip":"::1","query":{},"params":{}}
+[2025-05-06T06:46:55.061Z] [INFO] GET /user-lands/0x4696D070c22F52Ca00cDE4C717Cbb3a488c5CF41 200 3391ms 
+[2025-05-06T06:47:52.885Z] [INFO] GET /api/blockchain/user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC {"ip":"::1","query":{},"params":{}}
+[2025-05-06T06:47:54.514Z] [INFO] GET /user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 200 1629ms 
+[2025-05-06T06:47:54.540Z] [INFO] GET /api/blockchain/user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC {"ip":"::1","query":{},"params":{}}
+[2025-05-06T06:47:55.755Z] [INFO] GET /user-lands/0x95700C478EFDA7Ab7929669cC4d8d30e766b5BDC 200 1215ms 

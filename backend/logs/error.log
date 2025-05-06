@@ -1,0 +1,604 @@
+[2025-05-06T03:17:04.676Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:17:04.679Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:17:04.688Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:17:04.710Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:17:04.766Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:17:04.917Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:17:05.323Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:17:06.422Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:17:09.408Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:17:17.516Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:17:37.520Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:17:57.524Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:18:17.529Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:18:37.536Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:18:57.540Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:19:17.745Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:19:37.766Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:19:57.885Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:20:17.903Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:20:37.911Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:20:57.915Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:21:17.919Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:21:37.925Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:21:57.931Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:22:17.937Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:22:37.942Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:22:57.946Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:23:17.951Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:23:37.959Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:23:57.966Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:24:17.972Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:24:37.978Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:24:57.985Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:25:17.990Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:25:37.995Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:25:58.001Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:26:18.009Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:26:38.014Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:26:58.020Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:27:18.027Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:27:38.034Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:27:58.040Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:28:18.045Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:28:38.052Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:28:58.057Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:29:18.063Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:29:38.068Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:29:58.074Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:30:18.078Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:30:38.085Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:30:58.093Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:31:18.097Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:31:38.104Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:31:58.110Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:32:18.115Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:32:38.120Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:32:58.127Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:33:18.131Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:33:38.135Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:33:58.139Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:34:18.144Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:34:38.148Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:34:47.291Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:34:47.296Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:34:47.305Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:34:47.328Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:34:47.385Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:34:47.535Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:34:47.943Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:34:49.042Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:34:52.026Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:35:00.138Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:35:20.156Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:35:40.169Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:36:00.174Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:36:20.179Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:36:40.185Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:37:00.200Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:37:20.207Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:37:40.272Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:38:02.424Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:38:22.597Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:38:42.668Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:39:02.723Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:39:22.758Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:39:42.763Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:40:02.770Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:40:22.780Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:40:42.784Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:41:02.807Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:41:22.913Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:41:43.016Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:42:03.077Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:42:23.118Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:42:43.151Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:43:03.162Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:43:23.170Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:43:43.173Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:44:03.179Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:44:23.185Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:44:43.192Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:45:03.200Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:45:23.206Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:45:43.216Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:46:03.222Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:46:23.228Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:46:43.233Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:47:03.238Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:47:23.242Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:47:43.248Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:48:03.253Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T03:48:23.258Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.139Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.142Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.146Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.147Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.162Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.162Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.185Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.186Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.242Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.243Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.394Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.395Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.801Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:49.801Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:50.901Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:50.902Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:53.884Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:05:53.885Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:06:01.994Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:06:01.995Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:06:21.998Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:06:22.000Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:06:42.008Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:06:42.011Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:07:02.017Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:07:02.018Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:07:22.024Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:07:22.026Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:07:42.028Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:07:42.029Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:08:02.054Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:08:02.062Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:08:22.075Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:08:22.077Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:08:42.267Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:08:42.312Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:09:02.361Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:09:02.376Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:09:22.398Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:09:22.402Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:09:42.415Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:09:42.419Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:10:02.420Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:10:02.421Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:10:22.423Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:10:22.425Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:10:42.429Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:10:42.431Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:11:02.437Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:11:02.440Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:11:22.444Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:11:22.446Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:11:42.450Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:11:42.451Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:12:02.452Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:12:02.453Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:12:22.458Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:12:22.460Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:12:42.464Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:12:42.467Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:13:02.498Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:13:02.516Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:13:22.524Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:13:22.526Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:13:42.532Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:13:42.534Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:14:02.542Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:14:02.544Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:14:22.559Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:14:22.561Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:14:42.567Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:14:42.579Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:15:02.649Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:15:02.658Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:15:22.934Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:15:22.968Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:15:42.985Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:15:43.010Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:16:03.069Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:16:03.093Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:16:23.117Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:16:23.125Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:16:43.195Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:16:43.233Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:17:03.234Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:17:03.255Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:17:23.265Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:17:23.272Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:17:43.275Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:17:43.278Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:18:03.283Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:18:03.285Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:18:23.287Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:18:23.289Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:18:43.292Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:18:43.294Z] [ERROR] Blockchain queue error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.898Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.901Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.901Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.901Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.901Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.901Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.901Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.902Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.902Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.902Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.903Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.955Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.955Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.956Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.956Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.957Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.957Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.957Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.957Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.957Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.957Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:44.958Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.059Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.060Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.060Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.060Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.061Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.061Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.061Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.061Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.061Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.062Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.062Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.213Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.214Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.214Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.215Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.215Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.216Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.216Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.216Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.216Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.217Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.217Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.417Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.419Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.420Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.421Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.421Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.422Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.422Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.423Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.423Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.423Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.424Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.672Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.673Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.674Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.675Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.676Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.676Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.677Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.677Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.677Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.677Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.677Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.977Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.978Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.980Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.980Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.981Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.981Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.984Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.984Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.984Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.985Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:45.985Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.333Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.334Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.335Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.335Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.336Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.336Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.337Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.338Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.338Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.338Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.338Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.737Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.738Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.739Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.740Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.741Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.741Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.742Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.743Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.743Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.743Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:46.743Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.191Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.192Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.193Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.193Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.194Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.194Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.194Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.195Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.195Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.195Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.195Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.696Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.698Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.698Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.699Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.699Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.700Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.700Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.701Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.701Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.701Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:47.701Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.249Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.250Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.250Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.250Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.252Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.252Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.252Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.253Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.253Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.253Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.253Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.853Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.854Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.855Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.855Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.856Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.856Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.857Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.857Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.857Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.857Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:48.857Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:49.507Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:49.508Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:49.509Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:49.509Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:49.510Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:49.511Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:49.511Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:49.511Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:49.511Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:49.511Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:49.512Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.212Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.213Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.214Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.214Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.215Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.215Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.216Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.216Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.216Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.216Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.216Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.967Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.969Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.969Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.970Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.970Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.971Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.971Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.971Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.972Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.972Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:50.972Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:51.772Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:51.774Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:51.775Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:51.775Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:51.775Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:51.776Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:51.776Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:51.777Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:51.777Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:51.777Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:51.777Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:52.627Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:52.628Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:52.629Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:52.630Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:52.630Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:52.631Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:52.632Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:52.632Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:52.632Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:52.633Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:52.633Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:53.532Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:53.534Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:53.535Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:53.536Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:53.536Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:53.537Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:53.537Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:53.538Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:53.538Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:53.538Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:53.538Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:54.488Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:54.490Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:54.491Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:54.492Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:54.493Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:54.493Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:54.493Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:54.493Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:54.493Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:54.494Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:54.494Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:55.493Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:55.494Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:55.495Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:55.495Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:55.496Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:55.496Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:55.496Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:55.496Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:55.497Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:55.497Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:55.497Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:56.546Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:56.547Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:56.547Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:56.548Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:56.548Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:56.548Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:56.548Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:56.548Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:56.549Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:56.549Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:56.549Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:57.648Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:57.649Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:57.650Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:57.650Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:57.651Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:57.651Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:57.651Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:57.651Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:57.651Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:57.651Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:57.652Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:58.806Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:58.810Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:58.810Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:58.812Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:58.813Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:58.814Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:58.814Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:58.814Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:58.816Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:58.820Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:23:58.824Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:00.021Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:00.023Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:00.023Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:00.028Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:00.030Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:00.031Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:00.032Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:00.032Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:00.032Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:00.032Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:00.033Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:01.276Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:01.277Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:01.277Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:01.281Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:01.285Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:01.286Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:01.287Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:01.287Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:01.287Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:01.287Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:01.287Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:02.580Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:02.581Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:02.581Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:02.582Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:02.588Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:02.589Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:02.589Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:02.589Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:02.589Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:02.590Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:02.590Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:03.935Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:03.936Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:03.937Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:03.937Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:03.939Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:03.943Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:03.944Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:03.944Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:03.944Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:03.944Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:03.945Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:05.339Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:05.340Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:05.340Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:05.342Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:05.342Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:05.346Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:05.347Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:05.347Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:05.347Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:05.347Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:05.347Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:06.798Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:06.799Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:06.800Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:06.800Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:06.801Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:06.802Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:06.802Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:06.802Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:06.802Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:06.803Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:06.803Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:08.301Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:08.302Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:08.302Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:08.302Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:08.303Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:08.303Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:08.303Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:08.303Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:08.303Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:08.303Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:08.303Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:09.854Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:09.854Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:09.855Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:09.855Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:09.855Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:09.855Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:09.855Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:09.856Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:09.856Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:09.856Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:09.856Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:11.459Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:11.460Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:11.461Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:11.461Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:11.461Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:11.462Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:11.462Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:11.462Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:11.462Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:11.463Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:11.463Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:13.114Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:13.116Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:13.117Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:13.121Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:13.121Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:13.122Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:13.122Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:13.122Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:13.123Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:13.123Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:13.123Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:14.821Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:14.822Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:14.822Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:14.823Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:14.823Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:14.824Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:14.825Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:14.825Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:14.825Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:14.826Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:14.826Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:16.575Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:16.576Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:16.578Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:16.578Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:16.579Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:16.580Z] [ERROR] Redis connection error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:16.580Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:16.581Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:16.581Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:16.581Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
+[2025-05-06T04:24:16.581Z] [ERROR] Worker error: {"errno":-61,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":6379}
